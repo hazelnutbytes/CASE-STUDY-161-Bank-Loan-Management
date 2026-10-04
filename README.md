@@ -25,7 +25,7 @@ A PostgreSQL database project for managing customers, loans, loan types, and loa
 
 - PostgreSQL
 - SQL
-- pgAdmin
+- VS Code
 
 ## Calculations
 
